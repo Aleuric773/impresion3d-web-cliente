@@ -1,5 +1,3 @@
-"use client";
-
 import React from 'react';
 import Button from '@/components/Button';
 
@@ -73,7 +71,7 @@ export default function ContactoPage() {
 
       {/* Opcional: Añadir otra información de contacto (teléfono, dirección, mapa) */}
       <div className="mt-10 text-center text-gray-600">
-        <p>También puedes contactarnos por teléfono al <a href="tel:+34000000000" className="text-blue-600 hover:underline">+34 000 000 000</a> o por email a <a href="mailto:info@impresion3dpro.es" className="text-blue-600 hover:underline">info@impresion3dpro.es</a>.</p>
+        <p>También puedes contactarnos por teléfono al <a href="tel:+34000000000" className="text-blue-600 hover:underline">+34 000 000 000</a> o por email a <a href="mailto:trayhardbuenisimo@gmail.com" className="text-blue-600 hover:underline">trayhardbuenisimo@gmail.com</a>.</p>
       </div>
     </div>
   );

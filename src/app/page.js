@@ -28,7 +28,7 @@ export default function HomePage() {
             {/* Service 2: 3D Printing */}
             <div className="p-6 border rounded-lg shadow-md">
               {/* Icon Placeholder */}
-              <div className="text-blue-600 mb-4">[Icono Impresora 3D]</div>
+              <div className="mb-4 flex justify-center"><img src="/icono-impresora-3d.png" alt="Icono Impresora 3D" className="h-16 w-auto" /></div>
               <h3 className="text-xl font-semibold mb-2">Impresión 3D de Precisión</h3>
               <p className="text-gray-600">Utilizamos tecnología avanzada para imprimir tus figuras con alta definición y materiales resistentes.</p>
             </div>
