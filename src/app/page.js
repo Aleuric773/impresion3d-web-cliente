@@ -21,7 +21,7 @@ export default function HomePage() {
             {/* Service 1: Image to 3D Model */}
             <div className="p-6 border rounded-lg shadow-md">
               {/* Icon Placeholder */}
-              <div className="text-blue-600 mb-4">[Icono Imagen a 3D]</div> 
+              <div className="mb-4 flex justify-center"><img src="/icono-imagen-a-3d.png" alt="Icono Imagen a 3D" className="h-16 w-auto" /></div> 
               <h3 className="text-xl font-semibold mb-2">De Imagen a Realidad</h3>
               <p className="text-gray-600">Sube una imagen de tu idea y nosotros nos encargamos de crear el modelo 3D listo para imprimir.</p>
             </div>
